@@ -16,4 +16,4 @@ Currently, I'm focused on **Data Structures & Algorithms** and building **[Menti
 #### ⚡ Fun Fact
 I once pivoted my entire startup because of a single user insight about "fairness" in photo sharing.
 
-[Website](https://mentisy.com) • [LinkedIn](YOUR_LINKEDIN_URL) • [Twitter](YOUR_TWITTER_URL)
+[Website](https://mentisy.com) • [LinkedIn](www.linkedin.com/in/shubhamverma85) • [Instagram](https://www.instagram.com/shubhambuildsmentisy)
