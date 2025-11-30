@@ -1,6 +1,6 @@
 ### Hi there, I'm Shubham! 👋
 
-I'm a Mechanical Engineer turned **Full Stack Developer** from **MNNIT Allahabad**. I love building products that solve real user problems with clean, scalable code.
+I'm a Mechanical Engineer turned **Full Stack Developer** from **NIT Allahabad**. I love building products that solve real user problems with clean, scalable code.
 
 Currently, I'm focused on **Data Structures & Algorithms** and building **[Mentisy](https://mentisy.com)**, a platform that makes photo sharing fair and fun.
 
