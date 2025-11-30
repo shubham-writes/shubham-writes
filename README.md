@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Shubham! 👋
 
-<!--
-**shubham-writes/shubham-writes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mechanical Engineer turned **Full Stack Developer** from **MNNIT Allahabad**. I love building products that solve real user problems with clean, scalable code.
 
-Here are some ideas to get you started:
+Currently, I'm focused on **Data Structures & Algorithms** and building **[Mentisy](https://mentisy.com)**, a platform that makes photo sharing fair and fun.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech Stack
+* **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS
+* **Backend:** Convex, Supabase, Node.js
+* **Tools:** Git, Figma, VS Code
+
+#### 🔭 What I'm Working On
+* **Mentisy:** A PWA for fair photo trading using a unique "lock-and-blur" mechanic.
+* **Open Source:** Contributing to web development tooling and documentation.
+
+#### ⚡ Fun Fact
+I once pivoted my entire startup because of a single user insight about "fairness" in photo sharing.
+
+[Website](https://mentisy.com) • [LinkedIn](YOUR_LINKEDIN_URL) • [Twitter](YOUR_TWITTER_URL)
