@@ -1,19 +1,23 @@
 ### Hi there, I'm Shubham! 👋
 
-I'm a Mechanical Engineer turned **Full Stack Developer** from **NIT Allahabad**. I love building products that solve real user problems with clean, scalable code.
+I'm a **Product-Focused Frontend Engineer** from **MNNIT Allahabad** (NIT).
+I bridge the gap between Mechanical Engineering precision and Software Engineering scalability. I specialize in building secure, real-time web applications that feel native.
 
-Currently, I'm focused on **Data Structures & Algorithms** and building **[Mentisy](https://mentisy.com)**, a platform that makes photo sharing fair and fun.
+Currently, I'm architecting **[Mentisy](https://mentisy.com)**, a "Fair Swap" social platform, while deep-diving into distributed systems and DSA.
 
 #### 🛠️ Tech Stack
-* **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS
-* **Backend:** Convex, Supabase, Node.js
-* **Tools:** Git, Figma, VS Code
+* **Core:** Next.js 14 (App Router), React, TypeScript
+* **State & Data:** Convex (Real-time DB), Zustand, TanStack Query
+* **Styling:** Tailwind CSS, Framer Motion
+* **Ecosystem:** Clerk (Auth), PWA (Service Workers), UploadThing
 
-#### 🔭 What I'm Working On
-* **Mentisy:** A PWA for fair photo trading using a unique "lock-and-blur" mechanic.
-* **Open Source:** Contributing to web development tooling and documentation.
+#### 🔭 Featured Project
+**[Mentisy](https://mentisy.com)** – *A Zero-Trust Photo Swap PWA*
+* **The Problem:** Social apps allow "freeloading" (viewing without replying).
+* **My Solution:** Engineered a cryptographic "Reply-to-Reveal" protocol where media is strictly hidden server-side until a fair exchange transaction is verified.
+* **Key Tech:** Web Share Target API, ACID Transactions, Server-Side Schedulers.
 
 #### ⚡ Fun Fact
-I once pivoted my entire startup because of a single user insight about "fairness" in photo sharing.
+I realized software engineering isn't just about code—it's about incentives. I pivoted my entire product strategy based on a single insight about "fairness" in digital interactions.
 
-[Website](https://mentisy.com) • [LinkedIn](www.linkedin.com/in/shubhamverma85) • [Instagram](https://www.instagram.com/shubhambuildsmentisy)
+[Website](https://mentisy.com) • [LinkedIn](https://www.linkedin.com/in/shubhamverma85) • [Instagram](https://www.instagram.com/shubhambuildsmentisy)
